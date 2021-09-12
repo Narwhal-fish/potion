@@ -2,7 +2,7 @@
 
 ## My ArtWork
 
-<table>
+<table class="center">
     <thead>
         <tr>
             <th><img src="original/9a922f5a98f38abb57e24b5e622620fe057fb414dfa3e2e2d400df8a092794df.png" with="128" heigh="128" alt="Bottle"></th>
